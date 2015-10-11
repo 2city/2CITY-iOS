@@ -1,0 +1,73 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_5_0
+#warning "This project uses features only available in iOS SDK 5.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import <CoreData/CoreData.h>
+    #import <MapKit/MapKit.h>
+    #import <AddressBook/AddressBook.h>
+    #import <Social/Social.h>
+    #import <MessageUI/MessageUI.h>
+    #import <FacebookSDK/FacebookSDK.h>
+    #import <MobileCoreServices/MobileCoreServices.h>
+    #import "ECSlidingViewController.h"
+    #import "UIViewController+ECSlidingViewController.h"
+    #import "UIImageView+AFNetworking.h"
+    #import "MGUIImageExtras.h"
+    #import "UILabel+DynamicHeight.h"
+    #import "AFHTTPClient.h"
+    #import "FHSTwitterEngine.h"
+
+    #import "NSManageObject+Bindings.h"
+    #import "MGFooterView.h"
+    #import "MGAnimationController.h"
+    #import "RateView.h"
+
+    #import "NSStringExtras.h"
+    #import "METransitions.h"
+    #import "MGHelper.h"
+    #import "MGMapView.h"
+    #import "MGRawView.h"
+    #import "Config.h"
+    #import "UIConfig.h"
+    #import "MGUIAppearance.h"
+    #import "MGListCell.h"
+    #import "MGListView.h"
+    #import "NSString+HTML.h"
+    #import "MGSlider.h"
+    #import "MBProgressHUD.h"
+    #import "MGUtilities.h"
+    #import "MGFileManager.h"
+
+    #import "StoreCategory.h"
+    #import "Photo.h"
+    #import "Store.h"
+    #import "Rating.h"
+    #import "Review.h"
+    #import "News.h"
+    #import "Favorite.h"
+    #import "CoreDataController.h"
+    #import "MGParser.h"
+    #import "DataParser.h"
+    #import "MGMapRoute.h"
+    #import "MGHeaderView.h"
+    #import "MGImageViewer.h"
+    #import "UserAccessSession.h"
+#import "GAI.h"
+#import "UIImageView+WebCache.h"
+#import "GAITrackedViewController.h"
+
+#define     ANALYTICSID     @"UA-58693651-1"
+#import "GAITrackedViewController.h"
+
+#endif

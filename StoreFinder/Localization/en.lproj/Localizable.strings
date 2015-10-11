@@ -1,0 +1,298 @@
+/* 
+  Localizable.strings
+  Galavanta
+ 
+ 
+  Copyright (c) 2014 MERKABAHNK LLC. All rights reserved.
+ 
+*/
+
+"SEARCH_ANY_KEYWORDS" = "Search by Name or Address";
+
+"CHARS_LEFT" = " Char(s) left";
+
+"REVIEW_VIEW" = "View";
+
+"REVIEW_COMMENTS" = "Comment(s)";
+
+"CREATING_ROUTES" = "Creating Routes";
+
+"COMMENTS" = "Comments";
+
+"NO_RATING" = "No Rating";
+
+"DEFAULT" = "Default";
+"FOLD" = "Fold";
+"ZOOM" = "Zoom";
+
+"ANIMATION" = "Animation";
+
+"MENU_ANIMATION" = "Menu Animation";
+
+"LOGIN_TO_TWITTER" = "Login to Twitter";
+
+"LOGIN_TO_FACEBOOK" = "Login to Facebook";
+
+"SEARCHING" = "Searching";
+
+"UPDATING" = "Updating";
+
+"EMPTY_WEATHER" = "------";
+
+"FULL_NAME" = "Full Name";
+
+"USER_NAME" = "User Name";
+
+"PASSWORD" = "Password";
+
+"CELSIUS" = "°C";
+
+"FAHRENHEIT" = "°F";
+
+"CLICK_TO_ADD" = "Click to Add";
+
+"CLICK_TO_EDIT" = "Click to Edit";
+
+"EDITING_NOTICE" = "**When editing all fields are necessary";
+
+"NO_RESULTS" = "No Results found.";
+
+"LOGOUT" = "Logout";
+
+"UPDATE" = "Update";
+
+"NOT_AVAILABLE" = "Not Available";
+
+"SEARCH_ERROR" = "Search Error";
+"SEARCH_ERROR_DETAILS" = "No Results found.";
+
+"CATEGORY_ALL" = "All Categories";
+
+"SHARE" = "Share";
+
+"RADIUS" = "Radius:";
+"RADIUS_KILOMETERS" = "Km.";
+"AWAY" = "Away";
+"KILOMETERS" = "Km.";
+
+"Miles" = "Mi.";
+
+"NO_DISTANCE_SEARCH" = "---";
+
+"SEARCH_NEARBY" = "Search Nearby";
+
+"SEARCH_CATEGORIES" = "Categories";
+"SEARCH_RADIUS" = "Radius: 500 Mts";
+
+
+"RATING_AVERAGE" = "average based on";
+"RATING" = "ratings";
+
+"SYNCING_RATING" = "Syncing Rating";
+
+"RATING_ERROR" = "Rating Error";
+"RATING_ERROR_DETAILS" = "Rating should be greater than or equal to 1.";
+
+"POSTING_ERROR" = "Empty Textfield";
+"POSTING_ERROR_DETAILS" = "Review is empty.";
+
+"POSTING" = "Posting";
+
+
+"HOME" = "Home";
+
+"CATEGORIES" = "Categories";
+
+"STARRED" = "Starred";
+
+"FEATURED" = "Featured";
+
+"MAP" = "Map";
+
+"SEARCH" = "Search";
+
+"NEWS" = "News";
+
+"WEATHER" = "Weather";
+
+"ABOUT_US" = "About Us";
+
+"TERMS_CONDITIONS" = "Terms & Conditions";
+
+"HEADER_CATEGORIES" = "Categories";
+
+"HEADER_EXTRAS" = "Extras";
+
+"HEADER_USER" = "User";
+
+"LOADING" = "Loading";
+
+"EMAIL" = "Email";
+
+"SMS_NO" = "SMS No";
+
+"PHONE_NO" = "Phone No";
+
+"WEBSITE" = "Website";
+
+"DESCRIPTION" = "Description";
+
+"NETWORK_ERROR" = "Network Error";
+
+"NETWORK_ERROR_DETAILS" = "No Network Connection.";
+
+"FIELD_REQUIRED_ERROR_DETAILS_REGISTER" = "First Name, Last Name, Email, and Password are required.";
+
+"REGISTERING_USER" = "Register User";
+
+/*
+ LOCATION SERVICE LOCALIZATION
+ */
+
+"LOCATION_SERVICE_NOT_ENABLED" = "Location Service not enabled. Enabled it in Settings > Privacy > Location Services > On";
+
+"LOCATION_SERVICE_ERROR" = "Location Service Error";
+
+"LOCATION_SERVICE_FAIL" = "Cannot get location.";
+
+"LOADING" = "Loading";
+
+"NETWORK_ERROR" = "Network Error";
+
+"NETWORK_ERROR_DETAILS" = "No Network Connection.";
+
+"USER_LOCATION_ERROR" = "User Location Error";
+
+"USER_LOCATION_ERROR_DETAILS" = "Cannot determine route because user cannot detect its location.";
+
+"MAP_PIN_ERROR" = "User Location Error";
+
+"MAP_PIN_ERROR_DETAILS" = "Cannot determine route because user havent selected any map pin.";
+
+"MAP_DISTANCE_UNIT" = "Mi.";
+
+
+"FACEBOOK_STATUS_SHARE" = "Que buen plan! -Via 2City app";
+
+"TWITTER_STATUS_SHARE" = "Que buen plan! -Via 2City app";
+
+"FACEBOOK_AUTHENTICATION_FAILED" = "Facebook Authentication Failed";
+
+"FACEBOOK_AUTHENTICATION_FAILED_MSG" = "Go to Settings > Facebook > Enter Username/Password";
+
+"TWITTER_AUTHENTICATION_FAILED" = "Twitter Authentication Failed";
+
+"TWITTER_AUTHENTICATION_FAILED_MSG" = "Go to Settings > Twitter > Enter Username/Password";
+
+"EMAIL_ERROR" = "Email Error";
+
+"EMAIL_ERROR_MSG" = "Cannot proceed due to empty email address.";
+
+"EMAIL_SUBJECT" = "Customer Experience";
+
+"EMAIL_BODY" = "Hi your store is Amazing!";
+
+"EMAIL_SERVICE_ERROR" = "Email Service Error";
+
+"EMAIL_SERVICE_ERROR_MSG" = "Your device doesnt support email service.";
+
+"CONTACT_NO_SERVICE_ERROR" = "Contact Number Error";
+
+"CONTACT_NO_SERVICE_ERROR_MSG" = "Cannot proceed due to empty contact number.";
+
+"SMS_SUBJECT" = "Customer Experience";
+
+"SMS_BODY" = "Hi your store is Amazing!";
+
+/*
+ LOGIN SERVICE LOCALIZATION
+ */
+
+"LOGIN_ERROR" = "Login Error";
+
+"LOGIN_ERROR_DETAILS" = "Username and Password field are required.";
+
+"LOGIN_ERROR_USER_NOT_SIGNED_RATING_DETAILS" = "You must login first before you can rate.";
+
+"LOGIN_CONNECTING_ERROR" = "Error occured while connecting.";
+
+"REGISTER_ERROR" = "Register Error";
+
+"REGISTER_ERROR_DETAILS" = "Username and Password field are required.";
+
+"LOGGING_IN" = "Logging-In";
+
+"ALL_FIELDS_REQUIRED_ERROR_DETAILS" = "All fields are required.";
+
+"PASSWORD_LENGTH_ERROR_DETAILS" = "Password must be at lease 8 characters long.";
+
+"EMAIL_ADDRESS_ERROR_DETAILS" = "Invalid email address.";
+
+
+
+"SIGNUP_ERROR_DETAILS" = "Problems encountered while signing-up.";
+
+"SIGNUP_CONNECTING_ERROR" = "Error occured while connecting.";
+
+"LOGIN" = "Login";
+
+"PROFILE" = "Profile";
+
+"REGISTER" = "Register";
+
+
+
+
+/*
+ SYNC SERVICE LOCALIZATION
+ */
+"UNSYNC_CONNECTION_ERROR_DETAILS" = "Error occured while connecting.";
+
+"UNSYNC_CONNECTION_ERROR" = "Sync Error";
+
+"SYNCING_PHOTOS" = "Syncing Photos";
+
+"FIELD_REQUIRED_ERROR" = "Field Required";
+
+
+
+
+"ABOUT_US_DETAIL_1" = "We are small team that aims for awesome Game and Apps Development. There are no application we cannot do as long as there is music that keeps us going and creating wonderful apps.";
+
+"ABOUT_US_DETAIL_2" = "If you are looking for awesome Teams that will make your Apps interactive and awesome. Just contact us.";
+
+
+"CONTACT_US" = "Contact Us";
+
+
+
+"EMAIL_SUBJECT_ABOUT_US" = "About Us Inquiry";
+
+"EMAIL_SUBJECT_ABOUT_US_MSG" = "Hi!, Good Day!";
+
+
+
+"POSTING_REVIEW" = "Posting Review";
+
+"NEW_REVIEW_ERROR" = "Review Post Error";
+
+"NEW_REVIEW_ERROR_DETAILS" = "Problems encountered while posting review.";
+
+"UPDATING_PROFILE" = "Updating Profile";
+
+"UPDATE_PROFILE_ERROR" = "Profile Update Error";
+
+"UPDATE_PROFILE_ERROR_DETAILS" = "Problems encountered while posting review.";
+
+"CONNECTION_ERROR" = "Error occured while connecting.";
+
+
+
+
+"RATING_ERROR" = "Rating Error";
+
+"RATING_ERROR_DETAILS" = "Problems encountered while rating.";
+
+"RATING_FINISHED_ERROR" = "You have finished rating this store.";
+
+"Rate It!" = "Rate It!";
